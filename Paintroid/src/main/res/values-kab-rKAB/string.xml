@@ -62,11 +62,11 @@
     <string name="help_content_fill">Tap on the image to fill an area with the selected color.</string>
     <string name="help_content_cursor">Position the cursor where you want to draw. Tap to activate the cursor. Move your finger to draw. Tap again to deactivate.</string>
     <string name="help_content_transform">Use to transform the image.</string>
-    <string name="help_content_stamp">Move and resize the rectangle to cover the area you want to stamp. Long press to select the area. Move and tap again to stamp.</string>
+    <string name="help_content_stamp">Move and resize the rectangle to cover the area you want to stamp. Long press to select the area. Move it, then tap on the checkmark to stamp.</string>
     <string name="help_content_import_png">Import an image from the gallery to the stamp tool.</string>
     <string name="help_content_line">Draw a straight line.</string>
-    <string name="help_content_text">Write text and format it. Resize the text box afterwards. Tap to insert the text on the image.</string>
-    <string name="help_content_shape">Choose a shape and tap it to insert the selected shape.</string>
+    <string name="help_content_text">Write text and format it. Resize the text box afterwards. Tap on the checkmark to insert the text on the image.</string>
+    <string name="help_content_shape">Choose a shape and tap on the checkmark to insert the selected shape.</string>
     <string name="help_content_layer">Create new layers or modify existing ones.</string>
     <string name="help_content_color_chooser">Select or adjust a color.</string>
     <string name="help_content_hand">Move your finger to move the canvas.</string>
@@ -143,7 +143,7 @@
         As you have denied permission with do not ask again, please go to your phone settings and grant the required permissions if you wish to use the associated functions.</string>
     <string name="drawer_open" tools:ignore="UnusedResources">Open navigation drawer</string>
     <string name="drawer_close" tools:ignore="UnusedResources">Close navigation drawer</string>
-    <string name="transform_info_text">Drag edges to their new position, then tap to enlarge or crop the image area.</string>
+    <string name="transform_info_text">Drag edges to their new position, tap on the checkmark to enlarge or crop the image area.</string>
     <string name="cursor_draw_inactive">Pan to position, then tap to start painting.</string>
     <string name="cursor_draw_active">Pan to draw, then tap again to stop painting.</string>
     <string name="welcome_to_pocket_paint">Welcome To Pocket Paint</string>
@@ -156,7 +156,7 @@
     <string name="enjoy_pocket_paint">You are all set. Enjoy Pocket Paint.</string>
     <string name="intro_get_started">Get started and create a new masterpiece.</string>
     <string name="lets_go">Let\'s go</string>
-    <string name="next">Далі</string>
+    <string name="next">Uḍfiṛ</string>
     <string name="skip">Skip</string>
     <string name="pocketpaint_about_title">About</string>
     <string name="pocketpaint_about_content">Pocket Paint is a picture editing library that is part of the Catrobat project.\n\nCatrobat is a visual programming language and set of creativity tools for smartphones.\n\nThe source code of Pocket Paint is mainly licensed under the %s.\nFor precise details of the license see the link below.</string>
